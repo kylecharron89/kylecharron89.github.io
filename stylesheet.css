@@ -17,3 +17,9 @@ body {
   width: 100%;
   z-index: 999;
 }
+.content {
+  margin: 120px auto;
+  position: relative;
+  text-align: center;
+  top: 240px;
+}
