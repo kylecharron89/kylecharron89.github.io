@@ -10,11 +10,13 @@ header,h2{
 }
 .info {
   display: flex;
+  flex-direction: row;
 }
 .bio{
   border-bottom: solid;
 }
 .biopic{
   margin: auto;
+  border: solid;
   border-radius: 50%;
 }
