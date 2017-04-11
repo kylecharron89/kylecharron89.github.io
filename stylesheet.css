@@ -3,6 +3,7 @@
 }
 header{
    background-color: rgb(232, 239, 252);
+   position: fixed;
    text-align: center;
  }
 header,h2{
