@@ -1,7 +1,12 @@
 *{
   font-family: Tahoma;
 }
-.header {
+body {
+  background-color: #FFF;
+  margin: 0;
+  padding: 0px 60px;
+}
+.intro {
   background-color: #DBE9EE;
   box-sizing: border-box;
   padding: 40px;
