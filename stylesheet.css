@@ -1,3 +1,14 @@
 *{
   font-family: Tahoma;
 }
+.header {
+  background-color: #DBE9EE;
+  box-sizing: border-box;
+  padding: 40px;
+  position: fixed;
+  left: 0;
+  top: 80px;
+  text-align: center;
+  width: 100%;
+  z-index: 999;
+}
