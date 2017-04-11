@@ -3,12 +3,9 @@ header{
    text-align: center;
 }
 header, h2{
-  font-family: "Rubik Mono One";
+  font-family: "Syncopate";
 }
 .info {
   display: flex;
-  align-items: : center;
-}
-body{
-  background-image: image("https://www.walldevil.com/wallpapers/a13/mother-images-mother3-wallpapers-desktop.jpg");
+  align-items: baseline;
 }
