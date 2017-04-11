@@ -9,3 +9,6 @@ header, h2{
   display: flex;
   align-items: : center;
 }
+body{
+  background-image: image("https://www.walldevil.com/wallpapers/a13/mother-images-mother3-wallpapers-desktop.jpg");
+}
