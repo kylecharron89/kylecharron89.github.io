@@ -4,11 +4,9 @@
 header{
    background-color: rgb(232, 239, 252);
    text-align: center;
-}
-header, h2{
   font-family: "Syncopate";
 }
 .info {
   display: flex;
-  align-items: baseline;
+  align-items: center;
 }
