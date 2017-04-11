@@ -1,12 +1,9 @@
-*{
-  text-align: center;
-}
-
 header{
    background-color: rgb(232, 239, 252);
+   text-align: center;
 }
 header, h2{
-  font-family: "Syncopate";
+  font-family: "Rubic Mono One";
 }
 .info {
   display: flex;
