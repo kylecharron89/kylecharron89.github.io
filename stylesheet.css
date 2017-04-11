@@ -1,8 +1,6 @@
 *{
   font-family: Tahoma;
 }
-.intro {
-  position: top;
-  top: 180px;
-  text-align: center;
-}
+  .info {
+  display: flex;
+  }
