@@ -13,4 +13,5 @@ header, h2{
 }
 .info {
   display: flex;
+  flex-direction: row;
 }
