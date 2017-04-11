@@ -16,7 +16,10 @@ header,h2{
   border-bottom: solid;
 }
 .biopic{
-  margin: auto;
+  display: block;
+  width: 200px;
+  height: 300px;
   border: solid;
   border-radius: 50%;
+  margin: auto;
 }
