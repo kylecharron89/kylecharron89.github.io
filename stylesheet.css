@@ -1,6 +1,6 @@
-*{
-  font-family: Tahoma;
+header, h2{
+  font-family: "Syncopate"
 }
-  .info {
+.info {
   display: flex;
-  }
+}
