@@ -14,3 +14,7 @@ header,h2{
 .bio{
   border-bottom: solid;
 }
+.biopic{
+  margin: auto;
+  border-radius: 50%;
+}
