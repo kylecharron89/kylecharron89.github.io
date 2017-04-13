@@ -3,8 +3,10 @@
   border: solid;
 }
 .side{
-  width: 33.33%;
+  width: 25%;
   background: rgb(193, 217, 255);
+  position: fixed;
+
 }
 .main{
   width: 66.666%;
