@@ -41,3 +41,7 @@ p{
   font-family: 'Amatic SC', cursive;
   font-size: 25px;
 }
+.stache{
+  max-width: 200px;
+  margin: auto;
+}
